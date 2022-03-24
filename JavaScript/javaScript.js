@@ -1,5 +1,3 @@
- 
- 
 
 function toggle(){
     const nav = document.getElementById('links')
